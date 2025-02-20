@@ -3,7 +3,7 @@
 ## Scope
 
 - Be able to add a daily habit
-- Be able to trakc the habit by day
+- Be able to track the habit by day
 - Be able to view the history of the habit
 - see the streak of the habit
 - Be able to edit/delete habits
